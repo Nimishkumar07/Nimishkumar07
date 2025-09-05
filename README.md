@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I’m Nimish Kumar
 
-<!--
-**Nimishkumar07/Nimishkumar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year B.Tech (CSE) Student**  
+💻 **MERN Full Stack Developer**  
+🌱 Passionate about building, learning, and solving real-world problems with code!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- [**RapidPost**](https://github.com/Nimishkumar07/RapidPost):  
+  *A lightning-fast platform for sharing thoughts and ideas seamlessly. Built with the latest MERN stack technologies.*
+
+- [**WonderLust**](https://github.com/Nimishkumar07/WonderLust):  
+  *Your gateway to discovering new places and experiences. Crafted with love for travel and adventure enthusiasts.*
+
+---
+
+## 🛠️ Skills
+
+- **Languages & Frameworks:** JavaScript, Node.js, Express.js, React.js, MongoDB
+- **Core MERN Stack Development**
+- **Front-end & Back-end Integration**
+- **Responsive Web Design**
+
+---
+
+## 📈 GitHub Stats
+
+![Nimishkumar07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimishkumar07&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nimishkumar07&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Nimish%20Kumar-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nimishkumar07/)](https://www.linkedin.com/in/nimishkumar07/)
+
+---
+
+## ⚡ Fun Fact
+
+> "I believe in continuous learning and love to tinker with new tech. Let’s connect and build something amazing together!"
+
+---
+
+*Feel free to check out my work, connect, or drop a message. Excited to collaborate on innovative projects!*
