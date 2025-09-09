@@ -18,7 +18,7 @@
 
 ## 🛠️ Skills
 
-- **Languages & Frameworks:** JavaScript, Node.js, Express.js, React.js, MongoDB
+- **Languages & Frameworks:** JavaScript, Node.js, Express.js, React.js, MongoDB, EJS(Embedded JavaScript templates)
 - **Core MERN Stack Development**
 - **Front-end & Back-end Integration**
 - **Responsive Web Design**
