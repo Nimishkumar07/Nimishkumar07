@@ -11,7 +11,7 @@
 - [**RapidPost**](https://github.com/Nimishkumar07/RapidPost):  
   *A lightning-fast platform for sharing thoughts and ideas seamlessly. Built with the latest MERN stack technologies.*
 
-- [**WonderLust**](https://github.com/Nimishkumar07/WonderLust):  
+- [**CozyStay**](https://github.com/Nimishkumar07/WonderLust):  
   *Your gateway to discovering new places and experiences. Crafted with love for travel and adventure enthusiasts.*
 
 ---
