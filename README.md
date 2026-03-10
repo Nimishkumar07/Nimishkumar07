@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nimish Kumar
 
-🎓 **4<sup>th</sup>  Year B.Tech (CSE) Student**  
+🎓 **4<sup>th</sup>  Year B.Tech - CSE(DS) Student**  
 💻 **MERN Full Stack Developer**  
 🌱 Passionate about building, learning, and solving real-world problems with code!
 
