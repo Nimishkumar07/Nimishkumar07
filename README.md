@@ -18,10 +18,12 @@
 
 ## 🛠️ Skills
 
-- **Languages & Frameworks:** JavaScript, Node.js, Express.js, React.js, MongoDB, EJS(Embedded JavaScript templates)
-- **Core MERN Stack Development**
-- **Front-end & Back-end Integration**
-- **Responsive Web Design**
+- **Languages & Scripting:** JavaScript (ES6+), Python, Java
+- **Frontend:** React.Js, Next.Js, HTML5, CSS3, Bootstrap, Tailwind CSS, EJS, Material UI
+- **Backend & Databases:** Node.js, Express.js, MongoDB, MySQL, RESTful APIs, MVC Architecture, Socket.io
+- **Authentication & Security:** Passport.js, JWT, Session Management, Joi Validation, Bcrypt
+- **Cloud & APIs:** Cloudinary, Mapbox, Google Gemini AI API, Web Push API, Text-to-Speech, Third-Party Integrations
+- **DevOps & Tools:** Git, GitHub, Postman, AWS, Render, Vercel, Service Workers, Progressive Web Apps (PWA)
 
 ---
 
