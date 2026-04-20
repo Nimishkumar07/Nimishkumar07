@@ -1,29 +1,50 @@
 # 👋 Hi, I’m Nimish Kumar
 
-🎓 **4<sup>th</sup>  Year B.Tech - CSE(DS) Student**  
-💻 **MERN Full Stack Developer**  
-🌱 Passionate about building, learning, and solving real-world problems with code!
+Full Stack MERN Developer building scalable, high-performance, and AI-powered web applications.
+
+I focus on writing clean, maintainable code and building systems that work reliably in production—not just UI.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-- [**RapidPost**](https://github.com/Nimishkumar07/RapidPost):  
-  *A lightning-fast platform for sharing thoughts and ideas seamlessly with real-time notification. Built with the latest MERN stack technologies.*
+[**RapidPost — AI-Powered Blogging Platform**](https://github.com/Nimishkumar07/RapidPost):  
+- Built a high-performance MERN application with real-time features (Socket.io)  
+- Integrated Google Gemini AI for content generation (95% faster creation)  
+- Implemented PWA with push notifications and offline support  
+- Optimized performance (lazy loading, debouncing) → 60% faster load time  
+- Designed scalable frontend architecture and reusable component system  
 
-- [**CozyStay**](https://github.com/Nimishkumar07/WonderLust):  
-  *Your gateway to discovering new places and experiences. Crafted with love for travel and adventure enthusiasts.*
+[**CozyStay — Vacation Rental Platform**](https://github.com/Nimishkumar07/WonderLust):  
+- Developed full-stack booking system with zero double-booking conflicts  
+- Built REST APIs with structured validation and error handling  
+- Integrated Mapbox for location-based search  
+- Designed responsive UI with smooth user flows 
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- **Languages & Scripting:** JavaScript (ES6+), Python, Java
-- **Frontend:** React.Js, Next.Js, HTML5, CSS3, Bootstrap, Tailwind CSS, EJS, Material UI
-- **Backend & Databases:** Node.js, Express.js, MongoDB, MySQL, RESTful APIs, MVC Architecture, Socket.io
+- **Languages:** JavaScript (ES6+), Python, Java
+- **Frontend:** React.js, Next.js, Tailwind CSS, Material UI  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB, MySQL  
 - **Authentication & Security:** JWT, OAuth 2.0, Passport.js, Session Management, Joi Validation, Bcrypt
-- **Cloud & APIs:** Cloudinary, Mapbox, Google Gemini AI API, Web Push API, Text-to-Speech, Speech-to-Text, Third-Party Integrations
-- **DevOps & Tools:** Git, GitHub, CI/CD pipeline (GitHub Actions), Postman, AWS, Render, Vercel, Service Workers, Progressive Web Apps (PWA), Swagger
+
+---
+
+## ⚙️ DevOps & Tools
+
+- Docker · CI/CD (GitHub Actions) · AWS (basic) · Docker · Kubernetes (fundamentals) · Render · Vercel · Git · GitHub · Postman · Service Workers · PWA  
+
+---
+
+## ⚡ Development Approach
+
+- Build scalable and maintainable systems  
+- Focus on performance and real-world usability  
+- Ensure stable API integration and error handling  
+- Use AI-assisted workflows (ChatGPT, Antigravity) for faster iteration and optimization  
 
 ---
 
