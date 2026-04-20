@@ -44,7 +44,7 @@ I focus on writing clean, maintainable code and building systems that work relia
 - Build scalable and maintainable systems  
 - Focus on performance and real-world usability  
 - Ensure stable API integration and error handling  
-- Use AI-assisted workflows (ChatGPT, Antigravity) for faster iteration and optimization  
+- Use AI-assisted workflows for faster iteration and optimization  
 
 ---
 
