@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nimish Kumar
 
-Full Stack MERN Developer building scalable, high-performance, and AI-powered web applications.
+A Full Stack MERN Developer building scalable, high-performance, and AI-powered web applications.
 
 I focus on writing clean, maintainable code and building systems that work reliably in production—not just UI.
 
