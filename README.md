@@ -26,7 +26,7 @@ I focus on writing clean, maintainable code and building systems that work relia
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript (ES6+), Python, Java
-- **Frontend:** React.js, Next.js, Tailwind CSS, Material UI  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Material UI  
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Database:** MongoDB, MySQL  
 - **Authentication & Security:** JWT, OAuth 2.0, Passport.js, Session Management, Joi Validation, Bcrypt
