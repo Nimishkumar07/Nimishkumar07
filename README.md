@@ -9,17 +9,30 @@ I focus on writing clean, maintainable code and building systems that work relia
 ## 🚀 Projects
 
 [**RapidPost — AI-Powered Blogging Platform**](https://github.com/Nimishkumar07/RapidPost):  
-- Built a high-performance MERN application with real-time features (Socket.io)  
-- Integrated Google Gemini AI for content generation (95% faster creation)  
-- Implemented PWA with push notifications and offline support  
-- Optimized performance (lazy loading, debouncing) → 60% faster load time  
-- Designed scalable frontend architecture and reusable component system  
+- Designed and developed a high-performance MERN application with real-time features (Socket.io).  
+- Integrated Google Gemini AI for content generation (95% faster creation).
+- Developed secure REST APIs for authentication, blog management, and user interactions using JWT,
+  OAuth 2.0, and OTP verification.
+- Implemented PWA with push notifications and offline support.
+- Optimized performance (lazy loading, debouncing) → 60% faster load time. 
+- Designed scalable frontend architecture and reusable component system.
+
+[**Finance Dashboard Backend**](https://github.com/Nimishkumar07/Finance-Dashboard-Backend):  
+- Architected a scalable backend using layered architecture (Routes, Controllers, Services, Models) and
+  clean code principles.  
+- Implemented JWT authentication and RBAC with permission-based authorization middleware.  
+- Developed REST APIs for financial records with validation, filtering, pagination, and soft-delete functionality. 
+- Built analytics endpoints using MongoDB Aggregation Pipelines and secured APIs using Helmet,
+  Rate Limiting, HPP, and NoSQL injection protection.
 
 [**CozyStay — Vacation Rental Platform**](https://github.com/Nimishkumar07/WonderLust):  
-- Developed full-stack booking system with zero double-booking conflicts  
-- Built REST APIs with structured validation and error handling  
-- Integrated Mapbox for location-based search  
-- Designed responsive UI with smooth user flows 
+- Architected a full-stack rental platform with a conflict-free booking system eliminating double bookings.
+- Designed RESTful APIs and implemented secure authentication using Passport.js and session-based
+  authorization.
+- Integrated Mapbox API for geolocation-based property discovery and interactive mapping features.
+- Designed responsive UI with smooth user flows.
+- Applied MVC architecture, optimized database queries, and implemented centralized error handling for
+  scalability.
 
 ---
 
