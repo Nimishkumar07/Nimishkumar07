@@ -9,30 +9,36 @@ I focus on writing clean, maintainable code and building systems that work relia
 ## 🚀 Projects
 
 [**RapidPost — AI-Powered Blogging Platform**](https://github.com/Nimishkumar07/RapidPost):  
-- Designed and developed a high-performance MERN application with real-time features (Socket.io).  
-- Integrated Google Gemini AI for content generation (95% faster creation).
-- Developed secure REST APIs for authentication, blog management, and user interactions using JWT,
-  OAuth 2.0, and OTP verification.
-- Implemented PWA with push notifications and offline support.
-- Optimized performance (lazy loading, debouncing) → 60% faster load time. 
-- Designed scalable frontend architecture and reusable component system.
+– Built an AI-powered blogging platform designed to significantly reduced content creation time, supporting
+AI generation with customizable content options.
+– Developed secure REST APIs for authentication, blog management, and user interactions using JWT,
+OAuth 2.0, and OTP verification.
+– Implemented real-time comments, likes, & notifications using Socket.IO to enable live user interaction.
+– Optimized performance through lazy loading, debouncing, and reusable React components; deployed as a
+PWAwith push notifications.
+– Deployed the application on AWS EC2 with Nginx, automated CI/CD using GitHub Actions, and
+configured Cloudflare for production hosting.
+
+[**User Payout Management System**](https://github.com/Nimishkumar07/Payout-Management-System):  
+– Architected a production-oriented financial backend with 8 REST APIs across 5 domain
+collections, implementing affiliate sales, 10% advance payouts, reconciliation, withdrawals, and failed-payout
+recovery using layered Controller–Service–Repository architecture.
+– Engineered financial consistency and concurrency safety using MongoDB transactions, atomic
+conditional updates, immutable ledger entries, compound unique indexes, and idempotency controls to prevent
+duplicate financial effects under concurrent requests.
+– Designed an immutable ledger + materialized wallet architecture for O(1) balance reads, storing
+monetary values as integer paise and using compensating entries for auditable financial corrections.
+– Built and validated 23 integration tests with Jest, Supertest & MongoMemoryReplSet, covering
+transaction rollback, idempotency, concurrent withdrawals, reconciliation, recovery, and core payout workflows
+with 23/23 tests passing; documented APIs with 22 OpenAPI schemas.
 
 [**Finance Dashboard Backend**](https://github.com/Nimishkumar07/Finance-Dashboard-Backend):  
-- Architected a scalable backend using layered architecture (Routes, Controllers, Services, Models) and
-  clean code principles.  
-- Implemented JWT authentication and RBAC with permission-based authorization middleware.  
-- Developed REST APIs for financial records with validation, filtering, pagination, and soft-delete functionality. 
-- Built analytics endpoints using MongoDB Aggregation Pipelines and secured APIs using Helmet,
-  Rate Limiting, HPP, and NoSQL injection protection.
-
-[**CozyStay — Vacation Rental Platform**](https://github.com/Nimishkumar07/WonderLust):  
-- Architected a full-stack rental platform with a conflict-free booking system eliminating double bookings.
-- Designed RESTful APIs and implemented secure authentication using Passport.js and session-based
-  authorization.
-- Integrated Mapbox API for geolocation-based property discovery and interactive mapping features.
-- Designed responsive UI with smooth user flows.
-- Applied MVC architecture, optimized database queries, and implemented centralized error handling for
-  scalability.
+– Architected a layered REST backend with 20 APIs across authentication, user management, financial
+records, and dashboard analytics using Routes, Controllers, Services, and Models.
+– Implemented permission-based RBAC across 3 roles and 11 granular permissions, with JWT
+authentication and centralized authorization middleware for secure resource access.
+– Built MongoDB aggregation-based financial analytics with filtering, pagination, soft deletes, and audit
+trails; added Joi validation and security hardening with Helmet, rate limiting, HPP.
 
 ---
 
