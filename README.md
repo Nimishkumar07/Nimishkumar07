@@ -9,36 +9,13 @@ I focus on writing clean, maintainable code and building systems that work relia
 ## 🚀 Projects
 
 [**RapidPost — AI-Powered Blogging Platform**](https://github.com/Nimishkumar07/RapidPost):  
-- Built an AI-powered blogging platform designed to significantly reduced content creation time, supporting
-AI generation with customizable content options.
-- Developed secure REST APIs for authentication, blog management, and user interactions using JWT,
-OAuth 2.0, and OTP verification.
-- Implemented real-time comments, likes, & notifications using Socket.IO to enable live user interaction.
-- Optimized performance through lazy loading, debouncing, and reusable React components; deployed as a
-PWAwith push notifications.
-- Deployed the application on AWS EC2 with Nginx, automated CI/CD using GitHub Actions, and
-configured Cloudflare for production hosting.
+- AI-powered MERN stack blogging platform that lets users write manually or generate multilingual content instantly with AI. Features include real-time notifications, live comments, text-to-speech read-aloud, speech-to-text voice typing, and seamless offline reading with PWA support on mobile and desktop.
 
 [**User Payout Management System**](https://github.com/Nimishkumar07/Payout-Management-System):  
-- Architected a production-oriented financial backend with 8 REST APIs across 5 domain
-collections, implementing affiliate sales, 10% advance payouts, reconciliation, withdrawals, and failed-payout
-recovery using layered Controller–Service–Repository architecture.
-- Engineered financial consistency and concurrency safety using MongoDB transactions, atomic
-conditional updates, immutable ledger entries, compound unique indexes, and idempotency controls to prevent
-duplicate financial effects under concurrent requests.
-- Designed an immutable ledger + materialized wallet architecture for O(1) balance reads, storing
-monetary values as integer paise and using compensating entries for auditable financial corrections.
-- Built and validated 23 integration tests with Jest, Supertest & MongoMemoryReplSet, covering
-transaction rollback, idempotency, concurrent withdrawals, reconciliation, recovery, and core payout workflows
-with 23/23 tests passing; documented APIs with 22 OpenAPI schemas.
+- Backend service for managing affiliate sales, wallet balances, immutable wallet ledger entries, payouts, withdrawal recovery, and sale reconciliation with a focus on reliability, traceability, and financial integrity.
 
 [**Finance Dashboard Backend**](https://github.com/Nimishkumar07/Finance-Dashboard-Backend):  
-- Architected a layered REST backend with 20 APIs across authentication, user management, financial
-records, and dashboard analytics using Routes, Controllers, Services, and Models.
-- Implemented permission-based RBAC across 3 roles and 11 granular permissions, with JWT
-authentication and centralized authorization middleware for secure resource access.
-- Built MongoDB aggregation-based financial analytics with filtering, pagination, soft deletes, and audit
-trails; added Joi validation and security hardening with Helmet, rate limiting, HPP.
+- Backend system for a finance dashboard built with permission-based RBAC, MongoDB aggregation-driven analytics, JWT authentication, and a scalable layered architecture for secure and efficient financial data processing.
 
 ---
 
@@ -54,7 +31,7 @@ trails; added Joi validation and security hardening with Helmet, rate limiting, 
 
 ## ⚙️ DevOps & Tools
 
-- Docker · CI/CD (GitHub Actions) · AWS (basic) · Docker · Kubernetes (fundamentals) · Render · Vercel · Git · GitHub · Postman · Service Workers · PWA  
+- Docker · CI/CD (GitHub Actions) · AWS · nginx · Cloudflare · Docker · Kubernetes (fundamentals) · Render · Vercel · Git · GitHub · Postman · Service Workers · PWA  
 
 ---
 
